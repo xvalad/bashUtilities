@@ -6,8 +6,11 @@
 
 # Appearance > dark mode
 # Install gnome-tweaks
+sudo apt install gnome-tweaks
+
 # minimise on click
 gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
+
 # Personalize top bar
 
 # Move show-applications button to top
