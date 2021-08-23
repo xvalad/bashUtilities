@@ -123,3 +123,9 @@ alias git='cat ~/xvalad/.token && git'
 # If hard disks are not shown change
 # 'SATA Operation' in the BIOS from 'RAID On' to 'AHCI'
 
+# Bioinformatics software
+# Filezilla, Downloaded from Ubuntu software
+# FastQC
+sudo apt-get install -y fastqc
+# IGV
+sudo apt install igv
